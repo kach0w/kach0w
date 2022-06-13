@@ -1,7 +1,7 @@
 ### Hello There!
 
 <p>I am a high-school student interested in computer science.</p>
-My goal is to learn new things and also have fun.
+My goal is to learn new things and have fun.
 
 <h5>View my website <a href="https://kachow.me">here.</a></h5>
 
