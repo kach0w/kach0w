@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hello There!
+
+<p>I am a high-school student interested in computer science.</p>
+My goal is to learn new things and also have fun.
+
+<h5>View my website <a href="https://kachow.me">here.</a></h5>
+
+
+
+
+
+
+
+
+
 
 <!--
 **kach0w/kach0w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
