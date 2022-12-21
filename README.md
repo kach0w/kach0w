@@ -1,1 +1,2 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kach0w&show_icons=true&bg_color=3b82f6&icon_color=ffffff&title_color=ffffff&text_color=ffffff&border_color=000000)](https://github.com/kach0w/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kach0w&show_icons=true&bg_color=00172d&icon_color=ffffff&title_color=ffffff&text_color=ffffff)](https://github.com/kach0w/github-readme-stats)
+t
